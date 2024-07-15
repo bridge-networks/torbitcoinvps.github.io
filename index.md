@@ -6,6 +6,7 @@ ISP | $ [^1][^2] | $/Y [^1][^3] | Exit [^1][^4]
 --- | --- | --- | ---
 [alexhost.md](https://alexhost.md) | $12 | $120 | False
 [bitfolk.com](https://bitfolk.com) | $12 | $118 | True
+[bridge-networks.net](https://whcms.bridge-networks.net/) | $8 | $88 | True
 [buyvm.net](https://buyvm.net) | $4 | $15 | False
 [chunkhost.com](https://chunkhost.com) | $5 | $60 | Unknown
 [coinshost.com](https://coinshost.com) | $97 | $97 | False
@@ -17,6 +18,7 @@ ISP | $ [^1][^2] | $/Y [^1][^3] | Exit [^1][^4]
 [linevast.de](https://linevast.de) | $9 | $94 | False
 [lunanode.com](https://lunanode.com) | $4 | $49 | False
 [mivocloud.com](https://mivocloud.com) | $6 | $59 | False
+[monovm.com](https://monovm.com/buy-vps-with-bitcoin/) | $5 | $45 | Unknown
 [orangewebsite.com](https://orangewebsite.com) | $35 | $318 | Unknown
 [pulseservers.com](https://pulseservers.com) | $10 | $120 | True
 [ramnode.com](https://ramnode.com) | $3 | $15 | False
@@ -24,7 +26,6 @@ ISP | $ [^1][^2] | $/Y [^1][^3] | Exit [^1][^4]
 [snelserver.com](https://snelserver.com) | $4 | $105 | True
 [vpsbg.eu](https://vpsbg.eu) | $12 | $142 | True
 [yourserver.se](https://yourserver.se) | $5 | $47 | Unknown
-[monovm.com](https://monovm.com/buy-vps-with-bitcoin/) | $5 | $45 | Unknown
 
 ## Sources
 * http://cryto.net/%7Ejoepie91/bitcoinvps.html [^1]
@@ -54,3 +55,5 @@ ___
 [^3]: Yearly costs of the plan with the lowest cost per month.
 
 [^4]: Source https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs
+
+Updated 2024-07-14
